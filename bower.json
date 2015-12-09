@@ -1,0 +1,14 @@
+{
+    "name": "social-shares",
+    "description": "A jQuery plugin that enables sharing on Facebook, Twitter, Google+, LinkedIn, Pinterest and Reddit.\r The plugin also renders the share count of the respective social network.",
+    "homepage": "https://github.com/amostajo/social-shares",
+	"license": "MIT",
+	"authors": [
+		"Alejandro Mostajo <amostajo@gmail.com>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/amostajo/social-shares.git"
+	},
+    "private": false
+}
